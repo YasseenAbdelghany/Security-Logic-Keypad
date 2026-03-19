@@ -104,7 +104,7 @@ This project demonstrates the practical application of digital logic circuits in
 ---
 
 ## Made by
-- Yasseen Ahmed (23101608)
-- Ahmed Khaled (23101545)
-- Mostafa Mohamed (23101601)
-- Youssef Ramadan (23101614)
+- Yasseen Ahmed 
+- Ahmed Khaled 
+- Mostafa Mohamed 
+- Youssef Ramadan 
